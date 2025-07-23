@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=senhorschiavon" alt="senhorschiavon" /></a> </p>
 
-- 🌱 I’m currently learning **React Native and Node**
+- 🌱 I’m currently learning **Flutter, React Native and Node**
 
 - 👨‍💻 All of my projects are available at [http://github.com/SenhorSchiavon](http://github.com/SenhorSchiavon)
 
